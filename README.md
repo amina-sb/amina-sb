@@ -8,41 +8,37 @@ Data Science with an AI concentration at New York University, class of 2028. NYU
 
 [as20312@nyu.edu](mailto:as20312@nyu.edu) · [github.com/amina-sb](https://github.com/amina-sb)
 
-## Work
+## `SELECT * FROM experience ORDER BY start DESC;`
 
-<table>
-  <tr>
-    <th align="left">Date</th>
-    <th align="left">Role</th>
-  </tr>
-  <tr>
-    <td>May 2026 – now<br><sub>Remote</sub></td>
-    <td>
-      <a href="https://app.aidencare.space"><b>AidenCare</b></a> · AI &amp; Data Engineering Intern<br>
-      Patient portal and staff dashboard for dental clinics, built by a three-person team. Next.js, React 19, TypeScript and Tailwind on a Supabase Postgres backend. Took the platform from repository to production: Vercel CI/CD, custom-domain DNS, Git identity and org access for the team.
-    </td>
-  </tr>
-  <tr>
-    <td>2026<br><sub>Remote</sub></td>
-    <td>
-      <b>NCOC HSSE System</b> · Full-Stack Developer<br>
-      Health, safety and environment management app for an energy operator, on SharePoint Online with SPFx and React. Parses Visio (VSDX) and Word (DOCX) process documents and renders them as BPMN-style swimlane flowcharts, with PDF export and admin features gated by SharePoint permissions. Built most of the system across releases up to v2.13.3.
-    </td>
-  </tr>
-  <tr>
-    <td>Fall 2026<br><sub>Princeton, NJ</sub></td>
-    <td>
-      <b>HackPrinceton</b> · Hacker<br>
-      Accepted to the Fall 2026 hackathon.
-    </td>
-  </tr>
-</table>
+### [AidenCare](https://app.aidencare.space) · AI & Data Engineering Intern
+`2026-05 → now` · `remote` · `next.js` `react` `typescript` `supabase` `postgres` `vercel`
 
-## Coursework
+Patient portal and staff dashboard for dental clinics, built by a three-person team.
+
+- Took the platform from repository to production: Vercel CI/CD, custom-domain DNS, Git identity and org access for the team
+- Next.js, React 19, TypeScript and Tailwind on a Supabase Postgres backend
+
+### NCOC HSSE System · Full-Stack Developer
+`2026` · `remote` · `spfx` `react` `typescript` `sharepoint`
+
+Health, safety and environment management app for an energy operator, on SharePoint Online.
+
+- Parses Visio (VSDX) and Word (DOCX) process documents and renders them as BPMN-style swimlane flowcharts
+- PDF export, plus admin features gated by SharePoint permissions
+- Built most of the system across releases up to v2.13.3
+
+### HackPrinceton · Hacker
+`2026-fall` · `princeton, nj`
+
+Accepted to the Fall 2026 hackathon.
+
+<sub>(3 rows)</sub>
+
+## `SELECT * FROM coursework;`
 
 Databases, data structures and algorithms, discrete math, linear algebra, and a Python data bootcamp at NYU. The database work is public: schema design, normalization and analytical SQL across [four assignments](https://github.com/amina-sb/databases-hw4), plus [pandas notebooks](https://github.com/amina-sb/data-bootcamp-class-work) from Data Bootcamp.
 
-## Stack
+## `SELECT * FROM stack;`
 
 **Languages** Python, TypeScript, JavaScript, SQL<br>
 **Data and ML** pandas, NumPy, scikit-learn, PyTorch, Jupyter<br>
