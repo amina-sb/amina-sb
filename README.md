@@ -86,9 +86,44 @@ Data Science with an AI concentration at New York University, class of 2028: NYU
   <img alt="Stack" src="assets/section-stack-dark.svg" width="100%">
 </picture>
 
-**Languages** · Python, SQL, TypeScript, JavaScript, C++<br>
-**Data and ML** · pandas, NumPy, scikit-learn, XGBoost, PyTorch, statsmodels, causal inference (DiD, IV/2SLS)<br>
-**AI** · LLM APIs (OpenAI, Anthropic, Gemini), RAG, LLM evaluation<br>
-**Product and infrastructure** · Next.js, React, Tailwind CSS, Supabase, PostgreSQL, Edge Functions, pg_cron, Vercel, Git<br>
-**Analytics** · Power BI, Power Query, Tableau, Excel<br>
-**Spoken** · English, Kazakh, Russian, Mandarin Chinese
+<table>
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">Tools</th>
+  </tr>
+  <tr>
+    <td valign="top"><b>Programming</b></td>
+    <td>Python · SQL · TypeScript · JavaScript · C++</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Data &amp; ML</b></td>
+    <td>pandas · NumPy · scikit-learn · XGBoost · PyTorch · statsmodels · causal inference (DiD, IV/2SLS)</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>AI</b></td>
+    <td>LLM APIs (OpenAI, Anthropic, Gemini) · RAG · LLM evaluation</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Product &amp; infrastructure</b></td>
+    <td>Next.js · React · Tailwind CSS · Supabase · PostgreSQL · Edge Functions · pg_cron · Vercel · Git</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Analytics</b></td>
+    <td>Power BI · Power Query · Tableau · Excel</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th align="left">Kazakh</th>
+    <th align="left">English</th>
+    <th align="left">Russian</th>
+    <th align="left">Mandarin Chinese</th>
+  </tr>
+  <tr>
+    <td>Native</td>
+    <td>Fluent</td>
+    <td>Fluent</td>
+    <td>Upper-intermediate</td>
+  </tr>
+</table>
