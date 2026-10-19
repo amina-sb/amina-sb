@@ -10,29 +10,50 @@ Data Science with an AI concentration at New York University, class of 2028. NYU
 
 ## `SELECT * FROM experience ORDER BY start DESC;`
 
-### [AidenCare](https://app.aidencare.space) · AI & Data Engineering Intern
-`2026-05 → now` · `remote` · `next.js` `react` `typescript` `supabase` `postgres` `vercel`
+<table>
+  <tr>
+    <th align="left"><code>period</code></th>
+    <th align="left"><code>status</code></th>
+    <th align="left"><code>record</code></th>
+  </tr>
+  <tr>
+    <td valign="top"><code>2026-05</code><br><code>→ now</code><br><sub>remote</sub></td>
+    <td valign="top">🟢 <code>running</code></td>
+    <td valign="top">
+      <a href="https://app.aidencare.space"><b>AidenCare</b></a> · AI &amp; Data Engineering Intern<br>
+      <sub>Patient portal and staff dashboard for dental clinics, built by a three-person team.</sub>
+      <ul>
+        <li>Took the platform from repository to production: Vercel CI/CD, custom-domain DNS, Git identity and org access for the team</li>
+        <li>Next.js, React 19, TypeScript and Tailwind on a Supabase Postgres backend</li>
+      </ul>
+      <code>next.js</code> <code>react</code> <code>typescript</code> <code>supabase</code> <code>postgres</code> <code>vercel</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><code>2026</code><br><sub>remote</sub></td>
+    <td valign="top">✅ <code>shipped</code></td>
+    <td valign="top">
+      <b>NCOC HSSE System</b> · Full-Stack Developer<br>
+      <sub>Health, safety and environment management app for an energy operator, on SharePoint Online.</sub>
+      <ul>
+        <li>Parses Visio (VSDX) and Word (DOCX) process documents and renders them as BPMN-style swimlane flowcharts</li>
+        <li>PDF export, plus admin features gated by SharePoint permissions</li>
+        <li>Built most of the system across releases up to <b>v2.13.3</b></li>
+      </ul>
+      <code>spfx</code> <code>react</code> <code>typescript</code> <code>sharepoint</code>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><code>2026-fall</code><br><sub>princeton, nj</sub></td>
+    <td valign="top">🟡 <code>queued</code></td>
+    <td valign="top">
+      <b>HackPrinceton</b> · Hacker<br>
+      <sub>Accepted to the Fall 2026 hackathon.</sub>
+    </td>
+  </tr>
+</table>
 
-Patient portal and staff dashboard for dental clinics, built by a three-person team.
-
-- Took the platform from repository to production: Vercel CI/CD, custom-domain DNS, Git identity and org access for the team
-- Next.js, React 19, TypeScript and Tailwind on a Supabase Postgres backend
-
-### NCOC HSSE System · Full-Stack Developer
-`2026` · `remote` · `spfx` `react` `typescript` `sharepoint`
-
-Health, safety and environment management app for an energy operator, on SharePoint Online.
-
-- Parses Visio (VSDX) and Word (DOCX) process documents and renders them as BPMN-style swimlane flowcharts
-- PDF export, plus admin features gated by SharePoint permissions
-- Built most of the system across releases up to v2.13.3
-
-### HackPrinceton · Hacker
-`2026-fall` · `princeton, nj`
-
-Accepted to the Fall 2026 hackathon.
-
-<sub>(3 rows)</sub>
+<sub><code>(3 rows)</code></sub>
 
 ## `SELECT * FROM coursework;`
 
